@@ -1,0 +1,34 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=ALD_Modular
+[Library]
+ALD_Modular=.\ALD_Modular\ALD_Modular.lib
+[$LibMap$]
+ALD_Modular=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/ald_fsm_core.v=-1
+/valve_safety_ctrl.v=-1
+/fault_manager.v=-1
+/ald_top.v=-1
+/tb_ald_top.v=-1
+/ald_top.asdb=-1
+/ald_top.awc=-1
+[Files.Data]
+.\src\ald_fsm_core.v=Verilog Source Code
+.\src\valve_safety_ctrl.v=Verilog Source Code
+.\src\fault_manager.v=Verilog Source Code
+.\src\ald_top.v=Verilog Source Code
+.\src\tb_ald_top.v=Verilog Source Code
+.\src\ald_top.asdb=Accelerated Waveform File
+.\src\ald_top.awc=Accelerated Waveform Configuration

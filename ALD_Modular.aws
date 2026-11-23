@@ -1,0 +1,11 @@
+[Version]
+Version=17.0
+[Designs]
+ald_modular=.\ALD_Modular\ALD_Modular.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+[Expand]
+ald_modular=1

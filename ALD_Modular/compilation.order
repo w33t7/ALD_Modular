@@ -1,0 +1,5 @@
+.\src\ald_fsm_core.v
+.\src\valve_safety_ctrl.v
+.\src\fault_manager.v
+.\src\ald_top.v
+.\src\tb_ald_top.v

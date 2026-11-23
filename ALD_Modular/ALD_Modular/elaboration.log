@@ -1,0 +1,27 @@
+Active-HDL 17.0.292.10043 2026-11-22 18:45:03
+
+Elaboration top modules:
+Verilog Module                tb_ald_top
+
+
+------------------------------------------------------------------------------------------------
+Verilog Module          | Library     | Info | Compiler Version           | Compilation Options
+------------------------------------------------------------------------------------------------
+tb_ald_top              | ALD_Modular |      | 17.0.292.10043 (Windows64) | -O2 -sv2k23
+ald_top                 | ALD_Modular |      | 17.0.292.10043 (Windows64) | -O2 -sv2k23
+ald_fsm_core            | ALD_Modular |      | 17.0.292.10043 (Windows64) | -O2 -sv2k23
+valve_safety_ctrl       | ALD_Modular |      | 17.0.292.10043 (Windows64) | -O2 -sv2k23
+fault_manager           | ALD_Modular |      | 17.0.292.10043 (Windows64) | -O2 -sv2k23
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+Library                 | Comment
+------------------------------------------------------------------------------------------------
+ALD_Modular             | None
+------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+tb_ald_top tb_ald_top
+
+
+The performance of simulation is reduced. Version Student Edition
